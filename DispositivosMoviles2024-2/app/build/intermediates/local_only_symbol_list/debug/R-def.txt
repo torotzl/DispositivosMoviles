@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color lime_green
+color sky_blue
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnAccept
+id btnClear
+id etPass
+id etUser
+id llButtons
+id llText
+id tvForm
+id tvPass
+id tvSucc
+id tvUser
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string btnAceppt
+string btnClear
+string etUser
+string tvPass
+string tvSucc
+string tvUser
+style Base.Theme.Clase2
+style Theme.Clase2
+xml backup_rules
+xml data_extraction_rules

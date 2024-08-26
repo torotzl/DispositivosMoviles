@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvForm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="8dp"
+        android:text="@string/app_name"
+        android:textSize="40sp">
+
+    </TextView>
+
+    <LinearLayout
+        android:id="@+id/llText"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvUser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="@string/tvUser"
+            android:textSize="25sp">
+
+        </TextView>
+
+        <EditText
+            android:id="@+id/etUser"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:text="@string/etUser"
+            android:inputType="text"
+            android:importantForAutofill="no"
+            tools:ignore="LabelFor">
+
+        </EditText>
+
+        <TextView
+            android:id="@+id/tvPass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="@string/tvPass"
+            android:textSize="25sp">
+
+        </TextView>
+
+        <EditText
+            android:id="@+id/etPass"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:text="@string/tvPass"
+            android:inputType="textPassword"
+            android:importantForAutofill="no"
+            tools:ignore="LabelFor">
+
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llButtons"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnAccept"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btnAceppt"
+            android:textSize="25sp">
+
+        </Button>
+
+        <Button
+            android:id="@+id/btnClear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btnClear"
+            android:textSize="25sp">
+
+        </Button>
+
+        <TextView
+            android:id="@+id/tvSucc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="@string/tvSucc"
+            android:textSize="25sp"
+            android:gravity="center_horizontal">
+
+        </TextView>
+    </LinearLayout>
+</LinearLayout>
