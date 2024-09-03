@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
-    <color name="lime_green">#32CD32</color>
-    <color name="sky_blue">#87CEEB</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Formulario</string>
     <string name="btnAceppt">Aceptar</string>

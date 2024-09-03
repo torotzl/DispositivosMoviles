@@ -1,11 +1,10 @@
 R_DEF: Internal format may change without notice
 local
 color black
-color lime_green
-color sky_blue
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+id animationView
 id btnAccept
 id btnClear
 id etPass
@@ -13,13 +12,17 @@ id etUser
 id llButtons
 id llLogin
 id llTitle
+id main
 id tvForm
 id tvPass
 id tvSucc
 id tvUser
 layout activity_main
+layout activity_splash
 mipmap ic_launcher
 mipmap ic_launcher_round
+raw feid
+raw splash
 string app_name
 string btnAceppt
 string btnClear
