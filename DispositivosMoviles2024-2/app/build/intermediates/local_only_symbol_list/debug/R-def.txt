@@ -11,7 +11,8 @@ id btnClear
 id etPass
 id etUser
 id llButtons
-id llText
+id llLogin
+id llTitle
 id tvForm
 id tvPass
 id tvSucc
@@ -22,9 +23,9 @@ mipmap ic_launcher_round
 string app_name
 string btnAceppt
 string btnClear
+string etPass
 string etUser
 string tvPass
-string tvSucc
 string tvUser
 style Base.Theme.Clase2
 style Theme.Clase2

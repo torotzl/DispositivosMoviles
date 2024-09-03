@@ -2745,7 +2745,8 @@ id linear
 id listMode
 id list_item
 id llButtons
-id llText
+id llLogin
+id llTitle
 id masked
 id match_constraint
 id match_parent
@@ -3207,6 +3208,7 @@ string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
 string error_icon_content_description
+string etPass
 string etUser
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
@@ -3303,7 +3305,6 @@ string path_password_strike_through
 string search_menu_title
 string status_bar_notification_info_overflow
 string tvPass
-string tvSucc
 string tvUser
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light

@@ -1,0 +1,6 @@
+com.example.clase2.test.app-core-1.5.0-0 C:\Users\erkon\.gradle\caches\transforms-3\7df3ea80e358b7c626734a27a40524e6\transformed\core-1.5.0\res
+com.example.clase2.test.app-annotation-experimental-1.1.0-1 C:\Users\erkon\.gradle\caches\transforms-3\8723be3de5470b4177388d8ccdff9a04\transformed\annotation-experimental-1.1.0\res
+com.example.clase2.test.app-androidTest-2 C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\build\generated\res\resValues\androidTest\debug
+com.example.clase2.test.app-mergeDebugAndroidTestResources-3 C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.clase2.test.app-mergeDebugAndroidTestResources-4 C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.clase2.test.app-merged_res-5 C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\build\intermediates\merged_res\debugAndroidTest

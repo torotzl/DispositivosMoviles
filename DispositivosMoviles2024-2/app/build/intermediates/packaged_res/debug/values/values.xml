@@ -7,9 +7,9 @@
     <string name="app_name">Formulario</string>
     <string name="btnAceppt">Aceptar</string>
     <string name="btnClear">Limpiar</string>
+    <string name="etPass">Digite su Contraseña</string>
     <string name="etUser">Digite su Usuario</string>
     <string name="tvPass">Contraseña</string>
-    <string name="tvSucc">:D</string>
     <string name="tvUser">Usuario</string>
     <style name="Base.Theme.Clase2" parent="Theme.Material3.DayNight.NoActionBar">
         

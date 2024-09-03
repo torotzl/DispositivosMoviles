@@ -7,22 +7,30 @@
     tools:context=".MainActivity"
     android:orientation="vertical" >
 
-    <TextView
-        android:id="@+id/tvForm"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:padding="8dp"
-        android:text="@string/app_name"
-        android:textSize="40sp">
-
-    </TextView>
-
     <LinearLayout
-        android:id="@+id/llText"
+        android:id="@+id/llTitle"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvForm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="8dp"
+            android:text="@string/app_name"
+            android:textSize="40sp">
+        </TextView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llLogin"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
         android:orientation="vertical">
 
         <TextView
@@ -37,10 +45,10 @@
 
         <EditText
             android:id="@+id/etUser"
-            android:layout_width="match_parent"
+            android:layout_width="350dp"
             android:layout_height="48dp"
-            android:text="@string/etUser"
             android:inputType="text"
+            android:hint="@string/etUser"
             android:importantForAutofill="no"
             tools:ignore="LabelFor">
 
@@ -58,14 +66,15 @@
 
         <EditText
             android:id="@+id/etPass"
-            android:layout_width="match_parent"
+            android:layout_width="350dp"
             android:layout_height="48dp"
-            android:text="@string/tvPass"
             android:inputType="textPassword"
+            android:hint="@string/etPass"
             android:importantForAutofill="no"
             tools:ignore="LabelFor">
 
         </EditText>
+
     </LinearLayout>
 
     <LinearLayout
@@ -77,19 +86,21 @@
 
         <Button
             android:id="@+id/btnAccept"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/btnAceppt"
-            android:textSize="25sp">
+            android:textSize="25sp"
+            android:layout_gravity="center">
 
         </Button>
 
         <Button
             android:id="@+id/btnClear"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/btnClear"
-            android:textSize="25sp">
+            android:textSize="25sp"
+            android:layout_gravity="center">
 
         </Button>
 
@@ -98,7 +109,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="10dp"
-            android:text="@string/tvSucc"
+            android:text=""
             android:textSize="25sp"
             android:gravity="center_horizontal">
 
