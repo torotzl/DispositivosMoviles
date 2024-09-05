@@ -293,6 +293,10 @@ int attr circularflow_defaultAngle 0x7f0300d5
 int attr circularflow_defaultRadius 0x7f0300d6
 int attr circularflow_radiusInDP 0x7f0300d7
 int attr circularflow_viewCenter 0x7f0300d8
+int attr civ_border_color 0x7f0304f6
+int attr civ_border_overlay 0x7f0304f7
+int attr civ_border_width 0x7f0304f8
+int attr civ_circle_background_color 0x7f0304f9
 int attr clearsTag 0x7f0300d9
 int attr clickAction 0x7f0300da
 int attr clockFaceBackgroundColor 0x7f0300db
@@ -1383,6 +1387,7 @@ int color background_floating_material_light 0x7f05001e
 int color background_material_dark 0x7f05001f
 int color background_material_light 0x7f050020
 int color black 0x7f050021
+int color blue 0x7f050307
 int color bright_foreground_disabled_material_dark 0x7f050022
 int color bright_foreground_disabled_material_light 0x7f050023
 int color bright_foreground_inverse_material_dark 0x7f050024
@@ -1441,8 +1446,11 @@ int color dim_foreground_material_dark 0x7f050058
 int color dim_foreground_material_light 0x7f050059
 int color error_color_material_dark 0x7f05005a
 int color error_color_material_light 0x7f05005b
+int color feid 0x7f050308
 int color foreground_material_dark 0x7f05005c
 int color foreground_material_light 0x7f05005d
+int color green 0x7f050309
+int color grey 0x7f05030a
 int color highlighted_text_material_dark 0x7f05005e
 int color highlighted_text_material_light 0x7f05005f
 int color m3_appbar_overlay_color 0x7f050060
@@ -3485,6 +3493,7 @@ int id pin 0x7f08016c
 int id position 0x7f08016d
 int id postLayout 0x7f08016e
 int id pressed 0x7f08016f
+int id profile_image 0x7f080209
 int id progress_circular 0x7f080170
 int id progress_horizontal 0x7f080171
 int id radio 0x7f080172
@@ -3613,7 +3622,6 @@ int id transition_transform 0x7f0801ec
 int id triangle 0x7f0801ed
 int id tvForm 0x7f0801ee
 int id tvPass 0x7f0801ef
-int id tvSucc 0x7f0801f0
 int id tvUser 0x7f0801f1
 int id unchecked 0x7f0801f2
 int id uniform 0x7f0801f3
@@ -3753,6 +3761,7 @@ int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
 int layout activity_main 0x7f0b001c
+int layout activity_main2 0x7f0b006d
 int layout activity_splash 0x7f0b001d
 int layout custom_dialog 0x7f0b001e
 int layout design_bottom_navigation_item 0x7f0b001f
@@ -3836,6 +3845,7 @@ int layout support_simple_spinner_dropdown_item 0x7f0b006c
 int mipmap ic_launcher 0x7f0d0000
 int mipmap ic_launcher_round 0x7f0d0001
 int plurals mtrl_badge_content_description 0x7f0e0000
+int raw batman 0x7f0f0002
 int raw feid 0x7f0f0000
 int raw splash 0x7f0f0001
 int string abc_action_bar_home_description 0x7f100000
@@ -4009,6 +4019,7 @@ int string searchview_navigation_content_description 0x7f1000a7
 int string side_sheet_accessibility_pane_title 0x7f1000a8
 int string side_sheet_behavior 0x7f1000a9
 int string status_bar_notification_info_overflow 0x7f1000aa
+int string tvPDDM 0x7f1000ad
 int string tvPass 0x7f1000ab
 int string tvUser 0x7f1000ac
 int style AlertDialog_AppCompat 0x7f110000
@@ -5572,6 +5583,11 @@ int styleable ChipGroup_chipSpacingVertical 3
 int styleable ChipGroup_selectionRequired 4
 int styleable ChipGroup_singleLine 5
 int styleable ChipGroup_singleSelection 6
+int[] styleable CircleImageView { 0x7f0304f6, 0x7f0304f7, 0x7f0304f8, 0x7f0304f9 }
+int styleable CircleImageView_civ_border_color 0
+int styleable CircleImageView_civ_border_overlay 1
+int styleable CircleImageView_civ_border_width 2
+int styleable CircleImageView_civ_circle_background_color 3
 int[] styleable CircularProgressIndicator { 0x7f030238, 0x7f03023a, 0x7f03023b }
 int styleable CircularProgressIndicator_indicatorDirectionCircular 0
 int styleable CircularProgressIndicator_indicatorInset 1

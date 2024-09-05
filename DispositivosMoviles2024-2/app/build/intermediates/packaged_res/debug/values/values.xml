@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
+    <color name="blue">#0A9EB8</color>
+    <color name="feid">#15F42D</color>
+    <color name="green">#4CAF50</color>
+    <color name="grey">#FF808080</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Formulario</string>
     <string name="btnAceppt">Aceptar</string>
     <string name="btnClear">Limpiar</string>
     <string name="etPass">Digite su Contraseña</string>
     <string name="etUser">Digite su Usuario</string>
+    <string name="tvPDDM">Programación de Dispositivos Móviles</string>
     <string name="tvPass">Contraseña</string>
     <string name="tvUser">Usuario</string>
     <style name="Base.Theme.Clase2" parent="Theme.Material3.DayNight.NoActionBar">
-        
-        
+        <item name="colorPrimaryDark">@color/grey</item>
     </style>
     <style name="Theme.Clase2" parent="Base.Theme.Clase2"/>
 </resources>

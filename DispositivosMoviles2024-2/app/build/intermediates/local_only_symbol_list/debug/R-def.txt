@@ -1,6 +1,10 @@
 R_DEF: Internal format may change without notice
 local
 color black
+color blue
+color feid
+color green
+color grey
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -13,14 +17,16 @@ id llButtons
 id llLogin
 id llTitle
 id main
+id profile_image
 id tvForm
 id tvPass
-id tvSucc
 id tvUser
 layout activity_main
+layout activity_main2
 layout activity_splash
 mipmap ic_launcher
 mipmap ic_launcher_round
+raw batman
 raw feid
 raw splash
 string app_name
@@ -28,6 +34,7 @@ string btnAceppt
 string btnClear
 string etPass
 string etUser
+string tvPDDM
 string tvPass
 string tvUser
 style Base.Theme.Clase2

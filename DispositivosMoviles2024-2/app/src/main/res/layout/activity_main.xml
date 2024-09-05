@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:orientation="vertical" >
+    android:orientation="vertical"
+    android:background="@color/black">
 
     <LinearLayout
         android:id="@+id/llTitle"
@@ -20,8 +21,10 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:padding="8dp"
-            android:text="@string/app_name"
-            android:textSize="40sp">
+            android:text="@string/tvPDDM"
+            android:textAlignment="center"
+            android:textSize="40sp"
+            android:textColor="@color/white">
         </TextView>
 
     </LinearLayout>
@@ -39,7 +42,8 @@
             android:layout_height="wrap_content"
             android:padding="10dp"
             android:text="@string/tvUser"
-            android:textSize="25sp">
+            android:textSize="25sp"
+            android:textColor="@color/white">
 
         </TextView>
 
@@ -49,6 +53,7 @@
             android:layout_height="48dp"
             android:inputType="text"
             android:hint="@string/etUser"
+            android:textColorHint="@color/grey"
             android:importantForAutofill="no"
             tools:ignore="LabelFor">
 
@@ -60,7 +65,8 @@
             android:layout_height="wrap_content"
             android:padding="10dp"
             android:text="@string/tvPass"
-            android:textSize="25sp">
+            android:textSize="25sp"
+            android:textColor="@color/white">
 
         </TextView>
 
@@ -70,6 +76,7 @@
             android:layout_height="48dp"
             android:inputType="textPassword"
             android:hint="@string/etPass"
+            android:textColorHint="@color/grey"
             android:importantForAutofill="no"
             tools:ignore="LabelFor">
 
@@ -90,6 +97,8 @@
             android:layout_height="wrap_content"
             android:text="@string/btnAceppt"
             android:textSize="25sp"
+            android:textColor="@color/white"
+            android:backgroundTint="@color/green"
             android:layout_gravity="center">
 
         </Button>
@@ -100,19 +109,11 @@
             android:layout_height="wrap_content"
             android:text="@string/btnClear"
             android:textSize="25sp"
+            android:textColor="@color/white"
+            android:backgroundTint="@color/blue"
             android:layout_gravity="center">
 
         </Button>
 
-        <TextView
-            android:id="@+id/tvSucc"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:padding="10dp"
-            android:text=""
-            android:textSize="25sp"
-            android:gravity="center_horizontal">
-
-        </TextView>
     </LinearLayout>
 </LinearLayout>

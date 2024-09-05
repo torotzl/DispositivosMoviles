@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.clase2.app-mergeDebugResources-30:/values-gl/values-gl.xml",
+            "outputFile": "com.example.clase2.app-mergeDebugResources-31:/values-gl/values-gl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\erkon\\.gradle\\caches\\transforms-3\\188198fe5f47380f947ba80cf13bf6be\\transformed\\core-1.13.0\\res\\values-gl\\values-gl.xml",

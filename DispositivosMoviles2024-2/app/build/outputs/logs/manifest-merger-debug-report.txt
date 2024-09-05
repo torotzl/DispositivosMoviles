@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:1-29:12
+ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:1-31:12
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\erkon\.gradle\caches\transforms-3\989472a54ffd4be600b881006d5d1b2d\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\erkon\.gradle\caches\transforms-3\30f4c334bb9586b8299d31214a27cc88\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [com.airbnb.android:lottie:6.5.1] C:\Users\erkon\.gradle\caches\transforms-3\0faf6fdc98ea4605a57545c085da258e\transformed\lottie-6.5.1\AndroidManifest.xml:2:1-9:12
@@ -11,7 +11,8 @@ MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\erkon\.gradl
 MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\erkon\.gradle\caches\transforms-3\7fcada7be06a7fe2f41d9b9a50e81a50\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\erkon\.gradle\caches\transforms-3\453a69a9d6f52c4c104a2eaab1c33f1f\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\erkon\.gradle\caches\transforms-3\cd0dc94b94a4d9e710c4ba7330c9d12b\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.9.1] C:\Users\erkon\.gradle\caches\transforms-3\9c818f36dab103aaf71bb306577f222a\transformed\activity-1.9.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.9.2] C:\Users\erkon\.gradle\caches\transforms-3\f2e672198bf970c43231ed8788ebbe68\transformed\activity-1.9.2\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\erkon\.gradle\caches\transforms-3\d3b8ff5c23bd90bdf3e9cd3707df2f25\transformed\circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\erkon\.gradle\caches\transforms-3\254547573aa69cdf683e1e3c7e38e17d\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\erkon\.gradle\caches\transforms-3\0012e6334ebf89082d12e353b313c956\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\erkon\.gradle\caches\transforms-3\44c8f432fd31c19fc211397ffb4de32e\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
@@ -46,33 +47,35 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\erkon\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\erkon\.gradle\caches\transforms-3\3720f74479d1bf1b71b3563ead82bc28\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\erkon\.gradle\caches\transforms-3\89d7c0a63c4c68190d59f33c4abce116\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\erkon\.gradle\caches\transforms-3\c90304054f8ae0965ca6d201c70337ef\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
-INJECTED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
 		INJECTED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:1-29:12
+		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:1-29:12
+		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:1-29:12
+		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:5:5-27:19
+ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:5:5-29:19
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\erkon\.gradle\caches\transforms-3\989472a54ffd4be600b881006d5d1b2d\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\erkon\.gradle\caches\transforms-3\989472a54ffd4be600b881006d5d1b2d\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\erkon\.gradle\caches\transforms-3\30f4c334bb9586b8299d31214a27cc88\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\erkon\.gradle\caches\transforms-3\30f4c334bb9586b8299d31214a27cc88\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
 MERGED from [com.airbnb.android:lottie:6.5.1] C:\Users\erkon\.gradle\caches\transforms-3\0faf6fdc98ea4605a57545c085da258e\transformed\lottie-6.5.1\AndroidManifest.xml:7:5-20
 MERGED from [com.airbnb.android:lottie:6.5.1] C:\Users\erkon\.gradle\caches\transforms-3\0faf6fdc98ea4605a57545c085da258e\transformed\lottie-6.5.1\AndroidManifest.xml:7:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\erkon\.gradle\caches\transforms-3\d3b8ff5c23bd90bdf3e9cd3707df2f25\transformed\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\erkon\.gradle\caches\transforms-3\d3b8ff5c23bd90bdf3e9cd3707df2f25\transformed\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
 MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\erkon\.gradle\caches\transforms-3\44c8f432fd31c19fc211397ffb4de32e\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\erkon\.gradle\caches\transforms-3\44c8f432fd31c19fc211397ffb4de32e\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\erkon\.gradle\caches\transforms-3\4cdf8d469b2560abc2fcfd45cf7835de\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
@@ -90,7 +93,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\er
 	android:supportsRtl
 		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:10:9-32
 	android:fullBackupContent
 		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:8:9-54
 	android:roundIcon
@@ -98,35 +101,41 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\er
 	tools:targetApi
 		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:14:9-29
 	android:icon
-		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:9:9-35
 	android:allowBackup
 		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:13:9-44
 	android:dataExtractionRules
 		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.clase2.MainActivity
+activity#com.example.clase2.MainActivity2
 ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:15:9-17:40
 	android:exported
 		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:16:13-41
-activity#com.example.clase2.Splash
-ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:18:9-26:20
+		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:16:13-42
+activity#com.example.clase2.MainActivity
+ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:18:9-20:40
 	android:exported
-		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:20:13-36
+		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:19:13-35
+		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:19:13-41
+activity#com.example.clase2.Splash
+ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:21:9-28:20
+	android:exported
+		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:22:13-35
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:21:13-25:29
+ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:24:13-27:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:22:17-69
+ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:22:25-66
+		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:24:17-77
+ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:24:27-74
+		ADDED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml:26:27-74
 uses-sdk
 INJECTED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\erkon\OneDrive\Escritorio\Form\DispositivosMoviles2024-2\app\src\main\AndroidManifest.xml
@@ -145,8 +154,10 @@ MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\erkon\.gradle\caches
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\erkon\.gradle\caches\transforms-3\453a69a9d6f52c4c104a2eaab1c33f1f\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\erkon\.gradle\caches\transforms-3\cd0dc94b94a4d9e710c4ba7330c9d12b\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\erkon\.gradle\caches\transforms-3\cd0dc94b94a4d9e710c4ba7330c9d12b\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.9.1] C:\Users\erkon\.gradle\caches\transforms-3\9c818f36dab103aaf71bb306577f222a\transformed\activity-1.9.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.9.1] C:\Users\erkon\.gradle\caches\transforms-3\9c818f36dab103aaf71bb306577f222a\transformed\activity-1.9.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.2] C:\Users\erkon\.gradle\caches\transforms-3\f2e672198bf970c43231ed8788ebbe68\transformed\activity-1.9.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.2] C:\Users\erkon\.gradle\caches\transforms-3\f2e672198bf970c43231ed8788ebbe68\transformed\activity-1.9.2\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\erkon\.gradle\caches\transforms-3\d3b8ff5c23bd90bdf3e9cd3707df2f25\transformed\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\erkon\.gradle\caches\transforms-3\d3b8ff5c23bd90bdf3e9cd3707df2f25\transformed\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\erkon\.gradle\caches\transforms-3\254547573aa69cdf683e1e3c7e38e17d\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\erkon\.gradle\caches\transforms-3\254547573aa69cdf683e1e3c7e38e17d\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\erkon\.gradle\caches\transforms-3\0012e6334ebf89082d12e353b313c956\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
