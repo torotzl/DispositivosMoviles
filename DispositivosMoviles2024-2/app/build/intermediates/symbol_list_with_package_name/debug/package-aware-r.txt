@@ -2118,8 +2118,10 @@ color primary_text_default_material_dark
 color primary_text_default_material_light
 color primary_text_disabled_material_dark
 color primary_text_disabled_material_light
+color red
 color ripple_material_dark
 color ripple_material_light
+color seaGreen
 color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
@@ -3227,7 +3229,9 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id btnAccept
+id btnCamara
 id btnClear
+id btnInstagram
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3364,6 +3368,7 @@ id invisible
 id inward
 id italic
 id item_touch_helper_previous_elevation
+id ivImagen
 id jumpToEnd
 id jumpToStart
 id labeled
@@ -3886,7 +3891,9 @@ string bottomsheet_action_expand_halfway
 string bottomsheet_drag_handle_clicked
 string bottomsheet_drag_handle_content_description
 string btnAceppt
+string btnCamara
 string btnClear
+string btnInstagram
 string call_notification_answer_action
 string call_notification_answer_video_action
 string call_notification_decline_action

@@ -5,10 +5,14 @@
     <color name="feid">#15F42D</color>
     <color name="green">#4CAF50</color>
     <color name="grey">#FF808080</color>
+    <color name="red">#F44336</color>
+    <color name="seaGreen">#009688</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Formulario</string>
     <string name="btnAceppt">Aceptar</string>
+    <string name="btnCamara">Camara</string>
     <string name="btnClear">Limpiar</string>
+    <string name="btnInstagram">Instagram</string>
     <string name="etPass">Digite su Contraseña</string>
     <string name="etUser">Digite su Usuario</string>
     <string name="tvPDDM">Programación de Dispositivos Móviles</string>
